@@ -1,28 +1,10 @@
 
---// "[userid] = true;" \\--
+--// "[userid] = true;" 
 
-MODS = {
+PREMIUM = {
 	[568700628] = true;
 
 }
 
-ADMINS = {
-    [2858494660] = true;
-}
 
---// Don't mess with anything below this
-function initiateNames()
-	game.Players.LocalPlayer.Character.LowerTorso:FindFirstChild('OriginalSize'):Destroy()
-	for _,v in pairs(game:GetService('Players'):GetPlayers()) do
-		if v.Character then
-            if ADMINS[v.UserId] then
-				v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[👑] ' .. v.DisplayName)
-			elseif MODS[v.UserId] then
-                v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[⭐] ' .. v.DisplayName)
-            end
-		end
-	end
-end
 
-local successful, errored = pcall(initiateNames)
-return MODS, ADMINS
