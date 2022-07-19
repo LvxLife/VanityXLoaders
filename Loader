@@ -1,0 +1,15 @@
+if game.PlaceId == 9300407930 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Bot%20Clash%20Simulator.lua"))()
+elseif game.PlaceId == 7167319176 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Chicago%20Remastered.lua"))()
+elseif game.PlaceId == 5602055394 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Hood%20Modded.lua"))()
+elseif game.PlaceId == 9551640993 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Mining%20Simulator%202.lua"))()
+elseif game.PlaceId == 292439477 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Phantom%20Forces.lua"))()
+elseif game.PlaceId == 4779613061 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/South%20London%202.lua"))()
+elseif game.PlaceId == 8554378337 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Weapon%20Fighting%20Simulator.lua"))()
+end
