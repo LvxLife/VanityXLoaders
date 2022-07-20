@@ -1,7 +1,1 @@
-if game.PlaceId == 9300407930 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Bot%20Clash%20Simulator%20%5BPREM%5D.lua"))()
-elseif game.PlaceId == 7167319176 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Chicago%20Remastered%20%5BPREM%5D.lua"))()
-elseif game.PlaceId == 8554378337 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Weapon%20Fighting%20Simulator%20%5BPREM%5D.lua"))()
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/"..tostring(game.PlaceId)))()
