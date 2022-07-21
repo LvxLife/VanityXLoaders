@@ -1,0 +1,17 @@
+if game.PlaceId == 537413528 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Build%20A%20Boat%20For%20Treasure.lua"))()
+elseif game.PlaceId == 7560156054 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Clicker%20Simulator.lua"))()
+elseif game.PlaceId == 8884433153 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Collect%20All%20Pets.lua"))()
+elseif game.PlaceId == 8343259840 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Criminality.lua"))()
+elseif game.PlaceId == 9281034297 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Goal%20Kick%20Simulator.lua"))()
+elseif game.PlaceId == 9772878203 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Raise%20A%20Floppa%202.lua"))()
+elseif game.PlaceId == 8540346411 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Rebirth%20Champions%20X.lua"))()
+elseif game.PlaceId == 914010731 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Ro-Ghoul.lua"))()
+end
