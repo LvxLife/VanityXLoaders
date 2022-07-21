@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/"..tostring(game.PlaceId)))()
