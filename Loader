@@ -16,4 +16,9 @@ elseif game.PlaceId == 914010731 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Ro-Ghoul.lua"))()
 elseif game.PlaceId == 7462526249 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/NIKELAND.lua"))()
+elseif game.PlaceId == 9498006165 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/NIKELAND.lua"))()
+
+
+
 end
