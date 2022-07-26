@@ -18,6 +18,9 @@ elseif game.PlaceId == 7462526249 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/NIKELAND.lua"))()
 elseif game.PlaceId == 9498006165 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Tapping%20Simulator.lua"))()
+elseif game.PlaceId == 4954752502 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Tower%20of%20Misery.lua"))()
+
 
 
 
