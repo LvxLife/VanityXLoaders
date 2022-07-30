@@ -12,6 +12,11 @@ elseif game.PlaceId == 4779613061 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/South%20London%202.lua"))()
 elseif game.PlaceId == 5602055394 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Hood%20Modded.lua"))()
+elseif game.PlaceId == 9603033881 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/Bid%20Battles.lua"))()
+elseif game.PlaceId == 621129760 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/Games/main/KAT.lua"))()
+
 end
 
 
