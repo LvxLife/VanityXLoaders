@@ -22,4 +22,20 @@ elseif game.PlaceId == 4954752502 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Tower%20of%20Misery.lua"))()
 elseif game.PlaceId == 8750997647 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Tapping%20Legends%20X.lua"))()
+elseif game.PlaceId == 1962086868 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Tower%20Of%20Hell.lua"))()
+elseif game.PlaceId == 204990346 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Tiny%20Tanks.lua"))()
+elseif game.PlaceId == 7991339063 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Rainbow%20Friends.lua"))()
+elseif game.PlaceId == 7014716500 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Pro%20Border.lua"))()
+elseif game.PlaceId == 142823291 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Murder%20Mystery%202.lua"))()
+elseif game.PlaceId == 1167791961 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Knife%20Simulator.lua"))()
+elseif game.PlaceId == 4954096313 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/Field%20Trip%20Z.lua"))()
+elseif game.PlaceId == 901793731 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamlc/FreeGames/main/D-DAY.lua"))()
 end
